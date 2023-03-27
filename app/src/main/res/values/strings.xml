@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome_back">Chào mừng trở lại!</string>
+    <string name="login_to_continue">Đăng nhập để tiếp tục</string>
+    <string name="dialog_quit_game">Bạn có muốn rời đi không?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="username_cannot_empty">Tên ngươi dung không được để trống</string>
+    <string name="password_cannot_empty">Mật khẩu không được để trống</string>
+    <string name="old_password_cannot_be_empty">Mật khẩu cũ không được để trống</string>
+    <string name="new_password_cannot_be_empty">Mật khẩu mới không được để trống</string>
+    <string name="confirm_new_password_cannot_be_empty">Xác nhận mật khẩu mới không được để trống</string>
+    <string name="literature">Văn học</string>
+    <string name="geography">Toán học</string>
+    <string name="math">Toán học</string>
+    <string name="finish">Hoàn thành</string>
+    <string name="next">Kế tiếp</string>
+    <string name="literature_quiz">Văn học</string>
+    <string name="geography_quiz">Địa lý</string>
+    <string name="rules1_description">Bài kiểm tra có 10 câu hỏi ngẫu nhiên.</string>
+    <string name="rules2_description">Mỗi câu trả lời đúng sẽ cho bạn 5 điểm.</string>
+    <string name="rules3_description">Mỗi câu trả lời sai sẽ khiến bạn mất 2 điểm.</string>
+    <string name="rules4_description">Kết quả của bạn được lưu và thu thập trong lịch sử của bạn.</string>
+
+</resources>
